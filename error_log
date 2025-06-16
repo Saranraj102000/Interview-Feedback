@@ -1,0 +1,42 @@
+[15-May-2025 19:38:43 UTC] Database Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[15-May-2025 19:39:23 UTC] Database Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[15-May-2025 19:39:42 UTC] Database Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[15-May-2025 19:40:20 UTC] Database Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[15-May-2025 19:40:22 UTC] Database Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[15-May-2025 19:41:05 UTC] Database Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[15-May-2025 19:41:50 UTC] PHP Notice:  Undefined variable: host in /home/mamlom47e23i/public_html/interviewfeedback/dashboard.php on line 178
+[15-May-2025 19:41:50 UTC] PHP Notice:  Undefined variable: database in /home/mamlom47e23i/public_html/interviewfeedback/dashboard.php on line 178
+[15-May-2025 19:41:50 UTC] PHP Notice:  Undefined variable: username in /home/mamlom47e23i/public_html/interviewfeedback/dashboard.php on line 178
+[15-May-2025 19:41:50 UTC] PHP Notice:  Undefined variable: password in /home/mamlom47e23i/public_html/interviewfeedback/dashboard.php on line 178
+[15-May-2025 19:41:50 UTC] Database Error: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[15-May-2025 19:41:52 UTC] PHP Notice:  Undefined variable: host in /home/mamlom47e23i/public_html/interviewfeedback/dashboard.php on line 178
+[15-May-2025 19:41:52 UTC] PHP Notice:  Undefined variable: database in /home/mamlom47e23i/public_html/interviewfeedback/dashboard.php on line 178
+[15-May-2025 19:41:52 UTC] PHP Notice:  Undefined variable: username in /home/mamlom47e23i/public_html/interviewfeedback/dashboard.php on line 178
+[15-May-2025 19:41:52 UTC] PHP Notice:  Undefined variable: password in /home/mamlom47e23i/public_html/interviewfeedback/dashboard.php on line 178
+[15-May-2025 19:41:52 UTC] Database Error: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[15-May-2025 19:42:33 UTC] Database Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vdart_feedback.feedback' doesn't exist
+[15-May-2025 19:45:02 UTC] Database Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vdart_feedback.feedback' doesn't exist
+[15-May-2025 22:36:58 UTC] Database Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[19-May-2025 15:07:47 UTC] Database Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[19-May-2025 15:07:54 UTC] Database Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[19-May-2025 21:57:06 UTC] Database Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[27-May-2025 16:14:41 UTC] Database Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'challenging_questions_details' in 'SELECT'
+[27-May-2025 16:17:59 UTC] Interview deleted: ID 7, Position: test , Client: tete , Date: 2025-05-15
+[27-May-2025 16:18:08 UTC] Interview deleted: ID 10, Position: abc, Client: abc, Date: 2025-05-15
+[27-May-2025 16:18:14 UTC] Interview deleted: ID 11, Position: test , Client: tete , Date: 2025-05-15
+[27-May-2025 16:18:33 UTC] Interview deleted: ID 12, Position: lmno, Client: klmno, Date: 2025-05-15
+[27-May-2025 16:18:37 UTC] Interview deleted: ID 14, Position: lmno, Client: klmno, Date: 2025-05-15
+[27-May-2025 16:18:42 UTC] Interview deleted: ID 15, Position: abc, Client: abc, Date: 2025-05-15
+[27-May-2025 16:18:47 UTC] Interview deleted: ID 16, Position: abc, Client: abc, Date: 2025-05-15
+[27-May-2025 16:18:54 UTC] Interview deleted: ID 9, Position: test , Client: tete , Date: 2025-05-15
+[27-May-2025 16:19:01 UTC] Interview deleted: ID 18, Position: CX, Client: CX, Date: 2025-05-15
+[27-May-2025 16:19:06 UTC] Interview deleted: ID 1, Position: abc, Client: abc, Date: 2025-05-14
+[27-May-2025 16:19:11 UTC] Interview deleted: ID 2, Position: abc, Client: abc, Date: 2025-05-14
+[27-May-2025 16:19:16 UTC] Interview deleted: ID 3, Position: abc, Client: abc, Date: 2025-05-14
+[27-May-2025 16:19:20 UTC] Interview deleted: ID 4, Position: abc, Client: abc, Date: 2025-05-14
+[27-May-2025 16:19:30 UTC] Interview deleted: ID 8, Position: CX, Client: CX, Date: 2025-05-15
+[27-May-2025 16:19:36 UTC] Interview deleted: ID 5, Position: CX, Client: CX, Date: 2025-05-15
+[27-May-2025 16:19:40 UTC] Interview deleted: ID 6, Position: CX, Client: CX, Date: 2025-05-15
+[27-May-2025 16:21:12 UTC] Interview deleted: ID 17, Position: lmno, Client: klmno, Date: 2025-05-15
+[27-May-2025 16:21:30 UTC] Interview deleted: ID 13, Position: Devops, Client: RHT, Date: 2024-12-11
+[27-May-2025 16:21:37 UTC] Interview deleted: ID 19, Position: Devops, Client: RHT, Date: 2024-12-11
