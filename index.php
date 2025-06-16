@@ -1471,6 +1471,8 @@
                         submitBtn.disabled = false;
                     }, 3000);
                 })
+
+                
                 .catch(error => {
                     console.error('Error:', error);
                     
